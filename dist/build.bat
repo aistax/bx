@@ -1,3 +1,3 @@
-@echooff 
-start main.exe 
+@echo off 
+start .\main.exe
 pause
