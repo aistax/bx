@@ -1,2 +1,7 @@
 import subprocess
-subprosse.run("main.exe",shell=True)
+def start():
+  go = "main.exe"
+  subprocess.run([go])
+
+if__name__ == "__main__":
+go()
